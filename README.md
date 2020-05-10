@@ -22,12 +22,6 @@
 # Admin template based on Angular 9+ and <a href="https://github.com/akveo/nebular">Nebular</a>
 <a target="_blank" href="https://hubs.ly/H0n4Sw20"><img src="https://i.imgur.com/mFdqvgG.png"/></a>
 
-### Backend Integration Bundles
-Easy way to integrate ngx-admin with backend (.NET, Node.js, Java etc.).
-
-<a target="_blank" href="https://hubs.ly/H0n4ZxC0">
-  <img src="https://i.imgur.com/Ywbs8cl.png"/>
-</a>
 
 [Check out our Store](https://hubs.ly/H0n4Zvy0) for ready to use Backend Bundles.
 
